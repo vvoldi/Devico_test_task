@@ -1,0 +1,5 @@
+CSS
+a.home-top-section__button-container .button
+
+XPATH
+//a[@class='home-top-section__button-container']/div[@class='button']
